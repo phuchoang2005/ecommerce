@@ -7,7 +7,11 @@
 - CQRS
 - Redis
 - ArchUnit
+- Lombok
 - MapStruct
 - JMolecules
 - MongoDB/PostgreSQL
 - ElasticSearch
+- Event-Driven Architecture (Eventual Consistency)
+- Trasactional Outbox pattern
+- Database Indexing
