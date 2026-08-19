@@ -4,7 +4,7 @@
 - Clean Architecture
 - Domain-Driven Design (Strategy Design/Tactical Design)
 - Spring Modulith
-- CQRS
+- CQRS - Command Query Responsibility Segregation.
 - Redis
 - ArchUnit
 - Lombok
@@ -15,3 +15,5 @@
 - Event-Driven Architecture (Eventual Consistency)
 - Trasactional Outbox pattern
 - Database Indexing
+- Configured Annotation meeting context's demand
+- Apache Kafka
