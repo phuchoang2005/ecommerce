@@ -1,0 +1,28 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:html": "node util/toHtml.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuchoang2005/ecommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/phuchoang2005/ecommerce/issues"
+  },
+  "homepage": "https://github.com/phuchoang2005/ecommerce#readme",
+  "dependencies": {
+    "marked": "^12.0.2"
+  }
+}
